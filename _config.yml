@@ -1,0 +1,47 @@
+title: 门徒大学
+author: zionmedia
+email: qcgl.zion@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+    弟兄姊妹，您可以随意发一封邮件到右(下)侧的邮箱, 之后您的邮箱就可以每天收到清晨甘露的文章了。
+    您也可以通过rss feed、github watching的方式订阅。
+
+permalink: /:categories/:year-:month-:day-:title/
+
+# social links
+github_username:  zionmedia/zionmedia.github.io
+#twitter_username: jekyllrb
+rss: rss feed
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y年%m月%d日"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+# - jekyll-seo-tag
+
+category_names:
+    hope-of-life: 生命的盼望
+    dew: 清晨甘露
+
+base_url:
+    hope-of-life: "//zm.fs.mddjz.com"
