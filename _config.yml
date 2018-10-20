@@ -1,14 +1,13 @@
 title: 门徒大学
 author: zionmedia
 email: qcgl.zion@gmail.com
-description: > # this means to ignore newlines until "twitter_username:"
-    弟兄姊妹，您可以随意发一封邮件到右(下)侧的邮箱, 之后您的邮箱就可以每天收到清晨甘露的文章了。
-    您也可以通过rss feed、github watching的方式订阅。
+description: > 
+    平安
 
 permalink: /:categories/:year-:month-:day-:title/
 
 # social links
-github_username:  zionmedia/zionmedia.github.io
+#github_username:  zionmedia
 #twitter_username: jekyllrb
 rss: rss feed
 # dribbble_username: jekyll
